@@ -1,0 +1,3 @@
+Temperature update received: 25
+Humidity update received: 30
+System running normally
